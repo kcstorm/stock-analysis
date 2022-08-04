@@ -22,7 +22,7 @@ The refactored script (for both 2017 and 2018) ran 87% faster than the original 
 1. Quality assurance: potential risk to create bugs in the code.
 2. Readability: could be jeopardized if a programmer didn't satisfactorily comment and used lesser known or complicated shortcuts.
 
-## Other refactoring opportunities for larger projects/code change and processes
+## Other refactoring opportunities for larger projects, code change and processes
 1. Analyzing the frequency of database calls for large amounts of data.
 2. Creating loops to initially store values of heavy, complex calculations that will be used further in the code.
 3. Moving processes off of legacy systems.
