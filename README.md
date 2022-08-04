@@ -32,6 +32,6 @@ The refactored script (for both 2017 and 2018) ran 87% faster than the original 
 1. Readability: the refactored code was easier to read and follow.
 2. Performance: decreased performance time and less CPU use.
 - Disadvantages
-1. Potential risk to create bugs in the script.
-2. Readability could be jeopardized if a programmer didn't satisfactorily comment and used lesser known or complicated shortcuts.
-3. A machine may have unidentified background programs and/or proceses that significantly affect performance time.  As such, the benefit of refactoring may or may not be fully realized, nor necessary.
+1. Risk: potential risk to create bugs in the script.
+2. Readability: could be jeopardized if a programmer didn't satisfactorily comment and used lesser known or complicated shortcuts.
+3. Computer program/processing conflict: a machine may have unidentified background programs and/or proceses that significantly affect performance time.  As such, the benefit of refactoring may or may not be fully realized, nor necessary.
